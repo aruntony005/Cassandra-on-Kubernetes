@@ -21,7 +21,7 @@ spec:
         - key: kubernetes.io/hostname
           operator: In
           values:
-          - kube-f801
+          - kube-wrbf
 
 ---
 apiVersion: v1
@@ -47,4 +47,4 @@ spec:
         - key: kubernetes.io/hostname
           operator: In
           values:
-          - kube-hn90
+          - kube-lmdd 
