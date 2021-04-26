@@ -87,4 +87,3 @@ spec:
       selector:
         matchLabels:
           pv: "sample-pv"
-

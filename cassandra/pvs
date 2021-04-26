@@ -21,7 +21,7 @@ spec:
         - key: kubernetes.io/hostname
           operator: In
           values:
-          - kube-wrbf
+          - kube-xpbd
 
 ---
 apiVersion: v1
@@ -47,4 +47,4 @@ spec:
         - key: kubernetes.io/hostname
           operator: In
           values:
-          - kube-lmdd 
+          - kube-xpbd
